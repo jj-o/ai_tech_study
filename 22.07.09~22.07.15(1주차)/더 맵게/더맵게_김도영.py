@@ -10,7 +10,6 @@ def heapsort(iterable):
 
 
 def solution(scoville, K):
-
     scoville = heapsort(scoville)
     cnt = 0
 
